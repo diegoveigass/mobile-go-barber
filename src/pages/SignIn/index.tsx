@@ -17,7 +17,7 @@ import { FormHandles } from '@unform/core';
 
 import { useAuth } from '../../hooks/auth';
 
-import getValidationErrors from '../../utils/getValidationErors';
+import getValidationErrors from '../../utils/getValidationErrors';
 
 import logoImg from '../../assets/logo.png';
 
